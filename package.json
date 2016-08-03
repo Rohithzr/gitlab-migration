@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async-waterfall": "^0.1.5",
     "gitlab": "^1.7.0",
     "urlencode": "^1.1.0"
   }
