@@ -11,6 +11,8 @@
   "dependencies": {
     "async-waterfall": "^0.1.5",
     "gitlab": "^1.7.0",
+    "query-string": "^4.2.3",
+    "request": "^2.74.0",
     "urlencode": "^1.1.0"
   }
 }
